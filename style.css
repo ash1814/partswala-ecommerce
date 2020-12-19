@@ -25,3 +25,52 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: rgb(127, 90, 168); 
+  
+}
+.cat2{
+    background-color: rgb(202, 64, 64); 
+}
+.cat3{
+    background-color: rgb(206, 95, 22); 
+}
+
+.category h1 {
+
+    color: white;
+}
+
+.category img {
+    width: 250px;
+    height: 250px;
+}
+
+#engine img{
+    height: 300px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+
+#wheel img{
+    height: 250px;
+}
+
+.card-footer{
+    background: white;
+    border-top: none;
+}
+
+footer{
+    text-align: center;
+}
